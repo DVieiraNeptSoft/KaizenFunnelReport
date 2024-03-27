@@ -1,0 +1,72 @@
+{
+	"id": "7f56b8d2-4dec-ee11-aaee-000d3a64f286",
+	"createdAt": "2024-03-27T15:22:29.703Z",
+	"createdBy": "daniel.vieira@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/DVieiraNeptSoft/KaizenFunnelReport"
+	},
+	"name": "KaizenFunnelReport",
+	"description": null,
+	"ver": "24.3.27.1536",
+	"enableCICD": true,
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [
+		{
+			"id": "6687a41b-4eec-ee11-aaee-000d3a64f286",
+			"name": "KaizenListReport",
+			"description": "",
+			"application": "planet9_adaptive_list"
+		}
+	],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [
+		{
+			"id": "ea149dd8-a893-ee11-8925-0022489e2d9f",
+			"description": null,
+			"name": "Kaizen Project List"
+		}
+	],
+	"category": [
+		{
+			"id": "0729ab4f-4fec-ee11-aaee-000d3a64f286",
+			"description": null,
+			"name": "tilegroup_kaizenFunnelReport"
+		}
+	],
+	"launchpad": [
+		{
+			"id": "09ef4756-4fec-ee11-aaee-000d3a64f286",
+			"name": "launchpad_kaizenFunnelReport",
+			"description": null
+		}
+	],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [
+		{
+			"id": "13077b35-5c93-ee11-8925-0022489e2d9f",
+			"name": "kaizenFunnelReport",
+			"description": "Kaizen Project"
+		}
+	],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}

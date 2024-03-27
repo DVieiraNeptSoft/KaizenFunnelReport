@@ -1,0 +1,18 @@
+{
+	"id": "13077b35-5c93-ee11-8925-0022489e2d9f",
+	"createdAt": "2023-12-05T10:51:14.860Z",
+	"createdBy": "owen.pettiford@neptune-software.com",
+	"settings": {
+		"previewable": true,
+		"tableid": "ef404c52-9592-ee11-8925-0022489e2d9f",
+		"hasDocumentation": false
+	},
+	"documentation": {},
+	"name": "kaizenFunnelReport",
+	"description": "Kaizen Project",
+	"group": null,
+	"type": "T",
+	"ver": "24.3.27.1528",
+	"disabled": false,
+	"package": "7f56b8d2-4dec-ee11-aaee-000d3a64f286"
+}
