@@ -21,6 +21,12 @@
 	"rulesengine": [],
 	"reports": [
 		{
+			"id": "70692424-a893-ee11-8925-0022489e2d9f",
+			"name": "UpdateIdea",
+			"description": "",
+			"application": "planet9_adaptive_edit"
+		},
+		{
 			"id": "6687a41b-4eec-ee11-aaee-000d3a64f286",
 			"name": "KaizenListReport",
 			"description": "",
